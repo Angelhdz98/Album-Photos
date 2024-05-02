@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "9b19",
+      "name": "Jon Gorczany"
+    },
+    {
+      "id": "dc7a",
+      "name": "Gregory Cole"
+    },
+    {
+      "id": "e654",
+      "name": "Desiree Boyle"
+    },
+    {
+      "id": "70b2",
+      "name": "Genevieve Murphy"
+    },
+    {
+      "id": "ec67",
+      "name": "Elsie Hammes Jr."
+    },
+    {
+      "id": "6e86",
+      "name": "Carla Schuppe"
+    },
+    {
+      "id": "e4b2",
+      "name": "Lauren Conn"
+    },
+    {
+      "id": "2e9a",
+      "name": "Kate Armstrong"
+    }
+  ],
+  "albums": [
+    {
+      "id": "1490",
+      "userId": "9b19",
+      "title": "Gorgeous Soft Pizza"
+    },
+    {
+      "id": "61dd",
+      "userId": "9b19",
+      "title": "Practical Cotton Car"
+    },
+    {
+      "id": "f25a",
+      "userId": "9b19",
+      "title": "Small Metal Shoes"
+    },
+    {
+      "id": "3a5a",
+      "userId": "9b19",
+      "title": "Bespoke Soft Fish"
+    }
+  ],
+  "photos": []
+}
